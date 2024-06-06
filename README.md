@@ -1,3 +1,6 @@
+• link para o dashboard do projeto: https://app.powerbi.com/view?r=eyJrIjoiOTFlY2ZlYzctMTBmMC00ZmNkLWJhNmYtOWMyODUyYzRmOWY0IiwidCI6IjY4NGRkNmEwLWRhMTgtNDc1NC04MjU2LTBmZDcyYzBhMmZhYyJ9
+
+
 Automação de Coleta e Análise de Dados de Ações
 
 
@@ -40,4 +43,4 @@ openpyxl: Para manipulação de arquivos e diretórios.
 
 pandas: Para manipulação e análise de dados.
 
-• link para o dashboard do projeto: https://app.powerbi.com/view?r=eyJrIjoiOTFlY2ZlYzctMTBmMC00ZmNkLWJhNmYtOWMyODUyYzRmOWY0IiwidCI6IjY4NGRkNmEwLWRhMTgtNDc1NC04MjU2LTBmZDcyYzBhMmZhYyJ9
+
