@@ -3,7 +3,7 @@ Automação de Coleta e Análise de Dados de Ações
 
 • Descrição do Projeto
 
-Este projeto tem como objetivo automatizar a coleta e análise de dados históricos de ações utilizando a biblioteca Selenium para web scraping e a biblioteca Pandas para manipulação e análise de dados. O código acessa sites financeiros, baixa dados históricos das ações e realiza a extração de informações adicionais como a valorização das ações. Os dados são processados e armazenados em um arquivo Excel para posteriormente serem analisados pro uma ferramenta de BI.
+Este projeto tem como objetivo automatizar a coleta e análise de dados históricos de ações utilizando a biblioteca Selenium para web scraping e a biblioteca Pandas para manipulação e análise de dados. O código acessa sites financeiros, baixa dados históricos das ações e realiza a extração de informações adicionais como a valorização das ações. Os dados são processados e armazenados em um arquivo Excel para posteriormente serem analisados por uma ferramenta de BI.
 
 
 • Funcionalidades:
@@ -39,3 +39,5 @@ selenium: Para automação de navegação e extração de dados da web.
 openpyxl: Para manipulação de arquivos e diretórios.
 
 pandas: Para manipulação e análise de dados.
+
+• link para o dashboard do projeto: https://app.powerbi.com/view?r=eyJrIjoiOTFlY2ZlYzctMTBmMC00ZmNkLWJhNmYtOWMyODUyYzRmOWY0IiwidCI6IjY4NGRkNmEwLWRhMTgtNDc1NC04MjU2LTBmZDcyYzBhMmZhYyJ9
